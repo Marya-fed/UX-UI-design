@@ -54,12 +54,14 @@ Feel free to reach out! Let's connect and collaborate on exciting projects.
 <div style="display: inline_block"><br>
   <img align="center" alt="MReis-Git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
   <img align="center" alt="MReis-Docker" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-original.svg">
+  <img align="center" alt="MReis-Figma" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg">
+  <img align="center" alt="MReis-JS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
   <img align="center" alt="MReis-Corel" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/adobecoreldraw/adobecoreldraw-original.svg">
   <img align="center" alt="MReis-Illustrator" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/adobeillustrator/adobeillustrator-original.svg">
-  <img align="center" alt="MReis-Figma" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg">
   <img align="center" alt="MReis-Html" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html/html-original.svg">
   <img align="center" alt="MReis-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css/css-original.svg">
-  <img align="center" alt="MReis-JS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
+  <img align="center" alt="MReis-CRM" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/crm/crm-original.svg">
+  <img align="center" alt="MReis-Bootstrap" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg">
 
 </div>
 
