@@ -4,7 +4,7 @@
 
 <p align="left">
     <a href="https://t.me/Marya_sol"><img src="https://badgen.net/badge/icon/%40Marya_sol28?icon=telegram&label=TG" /></a>
-    <a href="https://www.linkedin.com/in/мария-федотова-a4a875281"><img src="https://badgen.net/badge/blog/linkedin/green?icon=chrome&label" /></a>
+    <a href="https://www.linkedin.com/in/mar1fedotova"><img src="https://badgen.net/badge/blog/linkedin/green?icon=chrome&label" /></a>
     <a href="https://www.behance.net/gallery/212229911/sajt-dlja-otelja"><img src="https://badgen.net/badge/blog/behance/green?icon=chrome&label" /></a>
     <a href="https://instagram.com/designer_site123"><img src="src="https://badgen.net/badge/blog/instagram/red?icon=chrome&label" /></a>
     <a href="https://www.instagram.com/designer_site123"><img src="https://badgen.net/badge/icon/%40designer_site123?icon=instagram&label=Insta" /></a>
@@ -42,7 +42,7 @@ UI/UX design specialist with excellent technical, analytical, and communication 
 
 ## 🔗 Connect with Me
 
-[<img src="./assets/linkedin-48x48.png" alt="LinkedIn" width="40" height="40">](https://linkedin.com/in/мария-федотова-a4a875281)
+[<img src="./assets/linkedin-48x48.png" alt="LinkedIn" width="40" height="40">](https://linkedin.com/in/mar1fedotova)
 [<img src="./assets/telegram.svg" alt="Telegram" width="40" height="40">](https://t.me/Marya_sol)
 
 Feel free to reach out! Let's connect and collaborate on exciting projects.
