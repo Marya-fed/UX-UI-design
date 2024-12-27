@@ -5,7 +5,7 @@
 <p align="left">
     <a href="https://t.me/Marya_sol"><img src="https://badgen.net/badge/icon/%40Marya_sol28?icon=telegram&label=TG" /></a>
     <a href="https://www.linkedin.com/in/мария-федотова-a4a875281"><img src="https://badgen.net/badge/blog/linkedin/green?icon=chrome&label" /></a>
-    <a href="https://www.behance.net/gallery/212229911"><img src="https://badgen.net/badge/blog/behance/green?icon=chrome&label" /></a>
+    <a href="https://www.behance.net/gallery/212229911/sajt-dlja-otelja"><img src="https://badgen.net/badge/blog/behance/green?icon=chrome&label" /></a>
     <a href="https://instagram.com/designer_site123"><img src="src="https://badgen.net/badge/blog/instagram/red?icon=chrome&label" /></a>
     <a href="https://www.instagram.com/designer_site123"><img src="https://badgen.net/badge/icon/%40designer_site123?icon=instagram&label=Insta" /></a>
 </p>
@@ -69,7 +69,7 @@ Feel free to reach out! Let's connect and collaborate on exciting projects.
 
 - [Instagram](https://instagram.com/designer_site123): Want to build your **Resume Website** in the Instagram, start here.
 
-- [Web Project](https://www.behance.net/gallery/212229911): Want to learn **Web Project**, start here.
+- [Web Project](https://www.behance.net/gallery/212229911/sajt-dlja-otelja): Want to learn **Web Project**, start here.
 
 
 ⭐️ Feel free to explore my repositories and get in touch! ⭐️
