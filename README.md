@@ -6,7 +6,7 @@
     <a href="https://t.me/Marya_sol"><img src="https://badgen.net/badge/icon/%40Marya_sol28?icon=telegram&label=TG" /></a>
     <a href="https://www.linkedin.com/in/мария-федотова-a4a875281"><img src="https://badgen.net/badge/blog/linkedin/green?icon=chrome&label" /></a>
     <a href="https://www.behance.net/gallery/212229911"><img src="https://badgen.net/badge/blog/behance/green?icon=chrome&label" /></a>
-    <a href="https://instagram.com/designer_site123"><img src="https://badgen.net/badge/blog/behance/green?icon=chrome&label" /></a>
+    <a href="https://instagram.com/designer_site123"><img src="https://badgen.net/badge/blog/instagram/green?icon=chrome&label" /></a>
 </p>
 
 ## About Me
@@ -51,11 +51,9 @@ Feel free to reach out! Let's connect and collaborate on exciting projects.
 ### Tools and Technologies
   
 <div style="display: inline_block"><br>
-  <img align="center" alt="MReis-FreeBSD" height="30" width="40" src="https://raw.githubusercontent.com/gilbarbara/logos/main/logos/freebsd.svg">
-  <img align="center" alt="MReis-Linux" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg">
   <img align="center" alt="MReis-Git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
-  <img align="center" alt="MReis-Docker" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg">
-  <img align="center" alt="MReis-GCP" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/googlecloud/googlecloud-original.svg">
+  <img align="center" alt="MReis-Docker" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-original.svg">
+  <img align="center" alt="MReis-GCP" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/coreldraw/coreldraw-original.svg">
   <img align="center" alt="MReis-Ansible" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ansible/ansible-original.svg">
   <img align="center" alt="MReis-Terraform" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/terraform/terraform-original.svg">
   <img align="center" alt="MReis-Packer" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/packer/packer-original.svg">
