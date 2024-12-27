@@ -6,7 +6,7 @@
     <a href="https://t.me/Marya_sol"><img src="https://badgen.net/badge/icon/%40Marya_sol28?icon=telegram&label=TG" /></a>
     <a href="https://www.linkedin.com/in/мария-федотова-a4a875281"><img src="https://badgen.net/badge/blog/linkedin/green?icon=chrome&label" /></a>
     <a href="https://www.behance.net/gallery/212229911"><img src="https://badgen.net/badge/blog/behance/green?icon=chrome&label" /></a>
-    <a href="https://instagram.com/designer_site123"><img src="https://badgen.net/badge/blog/icon/%designer_site123?icon=instagram&label=Inst" /></a>
+    <a href="https://instagram.com/designer_site123"><img src="src="https://badgen.net/badge/blog/instagram/blue?icon=chrome&label" /></a>
 </p>
 
 ## About Me
