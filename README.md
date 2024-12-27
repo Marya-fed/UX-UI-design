@@ -53,8 +53,8 @@ Feel free to reach out! Let's connect and collaborate on exciting projects.
 <div style="display: inline_block"><br>
   <img align="center" alt="MReis-Git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
   <img align="center" alt="MReis-Docker" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-original.svg">
-  <img align="center" alt="MReis-GCP" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/coreldraw/coreldraw-original.svg">
-  <img align="center" alt="MReis-Ansible" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ansible/ansible-original.svg">
+  <img align="center" alt="MReis-Corel" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/coreldraw/coreldraw-original.svg">
+  <img align="center" alt="MReis-Illustrator" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/illustrator/illustrator-original.svg">
   <img align="center" alt="MReis-Terraform" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/terraform/terraform-original.svg">
   <img align="center" alt="MReis-Packer" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/packer/packer-original.svg">
   <img align="center" alt="MReis-Prometheus" height="30" width="40" src="https://raw.githubusercontent.com/cncf/artwork/main/projects/prometheus/icon/color/prometheus-icon-color.svg">
@@ -79,8 +79,6 @@ Feel free to reach out! Let's connect and collaborate on exciting projects.
 
 - [Web Project](https://www.behance.net/gallery/212229911): Want to learn **Web Project**, start here.
 
-
----
 
 ⭐️ Feel free to explore my repositories and get in touch! ⭐️
 
