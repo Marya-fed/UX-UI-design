@@ -1,6 +1,6 @@
-# UX-UI-design
+# UI / UX   DESIGN
 
-## UX/UI   ДИЗАЙНЕР
+## ui/ux дизайнер
 
 <p align="left">
     <a href="https://t.me/Marya_sol"><img src="https://badgen.net/badge/icon/%40Marya_sol28?icon=telegram&label=TG" /></a>
@@ -79,21 +79,15 @@ Feel free to reach out! Let's connect and collaborate on exciting projects.
 
 - [Instagram](https://instagram.com/designer_site123): Want to build your **Resume Website** in the Instagram, start here.
 
-- [Web Project](https://www.behance.net/gallery/212229911"><img src="https://badgen.net/badge/blog/behance/green?icon=chrome&label): Want to learn **Web Project**, start here.
+- [Web Project](https://www.behance.net/gallery/212229911): Want to learn **Web Project**, start here.
 
 
 ---
 
 ⭐️ Feel free to explore my repositories and get in touch! ⭐️
 
+---
 
-### Hi there 👋
-
-<div id="header" align="center">
-  <img src="https://raw.githubusercontent.com/Demo2886/Cyb04-onl/master/%F0%9F%92%80InfoMysor%F0%9F%92%80/img/giphy.webp"/>
-</div>
-
-<div align="center">
   <h2>🐍 My Contributions 🐍</h2>
   <br>
   <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg" />
