@@ -1,6 +1,7 @@
 # UI / UX   DESIGN
 
 ##     [resume](https://docs.google.com/document/d/1O-7T48Ecg3DcyUllTKlVKSsslSl12mO-UEgNysKddLc/edit?usp=sharing)
+![1](https://github.com/user-attachments/assets/dae32f1a-96a9-419f-97ab-caea37e9a443)
 
 <p align="left">
     <a href="https://t.me/Marya_sol"><img src="https://badgen.net/badge/icon/%40Marya_sol28?icon=telegram&label=TG" /></a>
