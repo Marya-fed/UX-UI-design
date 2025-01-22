@@ -1,6 +1,6 @@
 # UI / UX   DESIGN
 
-## ui/ux дизайнер
+## resume   https://docs.google.com/document/d/1O-7T48Ecg3DcyUllTKlVKSsslSl12mO-UEgNysKddLc/edit?usp=sharing
 
 <p align="left">
     <a href="https://t.me/Marya_sol"><img src="https://badgen.net/badge/icon/%40Marya_sol28?icon=telegram&label=TG" /></a>
